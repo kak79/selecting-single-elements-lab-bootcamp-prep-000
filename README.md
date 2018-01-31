@@ -20,7 +20,7 @@ OK, let's explain how to pass this lab, and stick this bad boy on your refrigera
 
 Go ahead and select the JavaScript tab and you'll see some JavaScript code
 
-```javascript
+javascript```
 //Enter querySelector Code here
 var header = "ENTER HEADER CODE HERE"
 var linkText = "ENTER LINK TEXT CODE HERE"
